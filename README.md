@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zutters" alt="zutters" /></a> </p>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zutters&show_icons=true&locale=en&layout=compact" alt="zutters" /></p>
-<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api?username=zutters&show_icons=true&locale=en" alt="zutters" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zutters&show_icons=true&locale=en" alt="zutters" /></p>
   
 
 
